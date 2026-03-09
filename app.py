@@ -29,7 +29,7 @@ def load_model():
     if not os.path.exists(MODEL_PATH):
         with st.spinner("⏳ Đang tải model lần đầu (~550MB), chờ 1-2 phút..."):
             gdown.download(
-                f"https://drive.google.com/uc?id={GDRIVE_FILE_ID}",
+                f"https://drive.google.com/uc?id={1o2Q9jNxRaINwB1OURwSDSjnQF_AuY75A}",
                 MODEL_PATH, quiet=False
             )
     net = models.vgg19(weights=None)

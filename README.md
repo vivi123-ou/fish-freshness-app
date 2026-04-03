@@ -36,7 +36,7 @@
 ## Giao diện Webapp Streamlit
 
 <details>
-<summary><b>🗺️ Nhấn vào đây để xem Sơ đồ hoạt động Webapp</b></summary>
+<summary><b> Nhấn vào đây để xem Sơ đồ hoạt động Webapp</b></summary>
 <br>
 <div align="center">
   <img width="60%" alt="sơ đồ hoạt động webapp" src="https://github.com/user-attachments/assets/5909f80a-7eff-44fd-b139-435f89290535" />
